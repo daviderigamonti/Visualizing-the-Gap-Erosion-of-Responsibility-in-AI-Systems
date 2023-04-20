@@ -1,0 +1,64 @@
+%%%%% PACKAGES AND CONFIGURATION %%%%%
+
+\documentclass[twocolumn]{article}
+
+\usepackage{geometry}   % Edit document margins
+\usepackage{hyperref}   % Table of contents hyperlinks
+\usepackage{bookmark}   % Manage bookmarks in a single run
+\usepackage{parskip}    % Paragraph indent & skip
+\usepackage{graphicx}   % 'graphics' package interface
+\usepackage{xcolor}     % More colors
+\usepackage{amsmath}    % Math
+\usepackage{amsfonts}   % Math fonts
+% Recommended packages for biblatex
+\usepackage[english]{babel}
+\usepackage{csquotes} 
+\usepackage{xpatch}  
+% biblatex
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    sorting=ynt
+]{biblatex}
+
+%%% TODO
+% HELPER PACKAGES (REMOVE IN FINAL) %
+\setlength{\marginparwidth}{2cm}
+\usepackage{todonotes}
+\usepackage{blindtext}
+% HELPER PACKAGES (REMOVE IN FINAL) %
+
+% Setup hyperlinks
+\hypersetup{
+    colorlinks,
+    citecolor = blue,
+    filecolor = blue,
+    linkcolor = blue,
+    urlcolor = blue
+}
+
+% Setup bibliography
+\addbibresource{bibliography.bib}
+
+%%%%% TITLE %%%%%
+
+\title{My Beautiful Paper About Stuff}
+\author{Davide Rigamonti}
+\date{June 2023}
+
+%%%%% DOCUMENT %%%%%
+
+\begin{document}
+
+% Print title
+\maketitle
+
+%%% TODO (REMOVE IN FINAL)
+\listoftodos
+
+\blindtext[2-3]\parencite{example}
+
+% Print bibliography
+\printbibliography
+
+\end{document}
