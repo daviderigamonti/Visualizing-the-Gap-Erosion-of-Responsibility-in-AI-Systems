@@ -16,9 +16,9 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          working_directory: .
-          root_file: "src/main.tex"
-          args: "-pdf -file-line-error -halt-on-error -interaction=nonstopmode -jobname=paper"
+          working_directory: "./src/"
+          root_file: main.tex
+          args: "-pdf -file-line-error -halt-on-error -interaction=nonstopmode -jobname=paper -output-directory=.."
       - name: Push PDF file
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
