@@ -4,6 +4,10 @@ src/*.pdf
 ### Other
 *.out.ps
 
+### Other sources
+notes/other_sources.md
+notes/other_sources/*
+
 # Created by https://www.toptal.com/developers/gitignore/api/latex
 # Edit at https://www.toptal.com/developers/gitignore?templates=latex
 
