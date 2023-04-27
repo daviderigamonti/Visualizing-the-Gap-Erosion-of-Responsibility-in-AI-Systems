@@ -10,7 +10,7 @@
 - Accountability in a computerized society
     - (Nissenbaum 1996)
     - [philpapers](https://philpapers.org/rec/NISAIA)
-    - [paper](https://nissenbaum.tech.cornell.edu/papers/AccountabilityComputerizedSociety.pdf)
+    - [paper](https://nissenbaum.tech.cornell.edu/papers/AccountabilityinaComputerizedSociety.pdf)
 
 - Engineering responsibility
     - (Sars 2022)
