@@ -14,8 +14,8 @@
 
 - Engineering responsibility
     - (Sars 2022)
-    - [philpapers](https://philpapers/rec/SARER-3)
-    - paper: N.D.
+    - [philpapers](https://philpapers.org/rec/SARER-3)
+    - [other sources](./other_sources.md#SARER)
 
 - Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them
     - (de Sio, Macacci 2021)
@@ -24,7 +24,7 @@
 
 - Understanding responsibility in Responsible AI. Dianoetic virtues and the hard problem of context
     - (Costantinescu, Voinea, Uszjai, Vică 2021)
-    - [philpapers](https://philpapers/rec/CONURI)
+    - [philpapers](https://philpapers.org/rec/CONURI)
     - paper available via philpapers
 
 - The responisbility gap: Ascribing responsibility for the actions of learning automata [!!]
