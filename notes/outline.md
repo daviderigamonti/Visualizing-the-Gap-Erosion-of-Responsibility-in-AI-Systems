@@ -11,7 +11,7 @@
 
 ## Thesis
 
-The **historical** model for determining the **responsibility** of a company/individual that creates an AI system **isn't valid** when looking at **autonomous systems** that tread on the fine line of **sentience**.
+The **historical** model for determining the **responsibility** of a company/individual that creates an AI system **isn't valid** when looking at **autonomous systems**.
 A new perspective is needed to effectively discern the full extent of human responsibility when a system is said to be able to "act on its own".
 
 ## Structure
@@ -22,12 +22,11 @@ A new perspective is needed to effectively discern the full extent of human resp
     - Motivating the thesis (why should the reader care?)
     - Technical terminology
         - Responsibility vs Accountability vs Attributability vs Liability
-        - Strong AI and sentience possibility
     - Overview of the paper
 2. Classic definition of responsibility and its applicability on non-intelligent systems
 3. Problems and fairness concerns of employing a classical responsibility framework in evaluating AI systems
-    - Inherent opacity of intelligent systems
-4. Consequences of mishandling or ignoring the concerns
+    - Inherent opacity of autonomous systems
+4. Consequences of mishandling or ignoring the raised concerns
     - Disincetivization of pursuing AI research
     - Unjust punishments and sanctions
 5. Alternative solutions and approaches for tackling the issue at hand

@@ -35,7 +35,7 @@
 - Responsible computers? A case for ascribing quasi-responsibility to computers independent of personhood or agency
     - (Stahl 2006)
     - [philpapers](https://philpapers.org/rec/STARCA)
-    - [other sources](./other_sources.md#MATTRG)
+    - [other sources](./other_sources.md#STARCA)
 
 ## Standford Encyclopedia of Philosophy
 
@@ -65,3 +65,7 @@
     - (Feigenbaum, Jaggard, Wright 2020)
     - [nowpublishers](https://nowpublishers/article/Details/SEC-002)
     - [paper](https://www.cs.yale.edu/homes/jf/FJW-AccountabilityMonograph-Plain.pdf)
+
+- Ethics, technology and engineering (Chap. 1)
+    - (Van de Poel 2011)
+    - [other sources](./other_sources.md#ETE)
