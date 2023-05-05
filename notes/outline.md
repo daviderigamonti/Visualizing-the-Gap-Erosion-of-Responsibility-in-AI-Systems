@@ -30,6 +30,7 @@ A new perspective is needed to effectively discern the full extent of human resp
     - Disincetivization of pursuing AI research
     - Unjust punishments and sanctions
 5. Alternative solutions and approaches for tackling the issue at hand
+    - Containing technology drive 
 6. Possibile points of objection towards the claim or its presented solutions
 7. Conclusion
 8. Bibliography

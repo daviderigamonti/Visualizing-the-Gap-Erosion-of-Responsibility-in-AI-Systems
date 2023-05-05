@@ -10,6 +10,11 @@
 - [paper](./other_sources.md#NOVAIA)
 
 #### Takes
+- Accountability as an answerability relation
+- Accountability vs Moral responsibility
+- Sociotechnical approach to accountability
+- Goals of accountability in AI
+- Proactive and Reactive accountability
 
 
 ### Accountability in a computerized society
@@ -19,12 +24,29 @@
 - [philpapers](https://philpapers.org/rec/NISAIA)
 - [paper](./other_sources.md#NISAIA)
 
-### Engineering responsibility
+#### Takes
+- Culture of accountability
+- Problem of many hands and inherent opacity of computer/AI systems
+    - Web unraveling needed to determine responsibility after incident happens
+    - Trap of viewing incidents as accidents
+- Programming bugs
+- Computer as a scapegoat
+    - Feinberg's responsibility model doesn't apply [!!]
+- Importance of understanding social and technological context when measuring responsibility
+
+### Engineering responsibility [??]
+
+Not very relevant given the new focus on autonomous systems rather than AI and conscience
 
 #### Info
 - (Sars 2022)
 - [philpapers](https://philpapers.org/rec/SARER-3)
 - [paper](./other_sources.md#SARER)
+
+#### Takes
+- Responsibility gap and various approaches
+- Problem of artificial agents w.r.t. responsibility
+- Response-dependent understanding of responsibility
 
 ### Four Responsibility Gaps with Artificial Intelligence: Why they Matter and How to Address them
 
