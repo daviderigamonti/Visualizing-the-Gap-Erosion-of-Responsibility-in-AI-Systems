@@ -55,6 +55,16 @@ Not very relevant given the new focus on autonomous systems rather than AI and c
 - [philpapers](https://philpapers.org/rec/SANFRG)
 - [paper](./other_sources.md#SANFRG)
 
+#### Takes
+- Four kinds of responsibility gaps
+- "Technical" and "Legal" solutionism pitfalls
+- Culpability
+- Moral accountability
+- Public accountability (enhanced by legal/organizational black boxes)
+- Active responsibility
+- Fatalism, Deflationism and Solutionism -> explainability, liability regimes
+- Possible solution: MHE (Tracking + Tracing) [!!]
+
 ### Understanding responsibility in Responsible AI. Dianoetic virtues and the hard problem of context
 
 #### Info
