@@ -79,12 +79,40 @@ Not very relevant given the new focus on autonomous systems rather than AI and c
 - [philpapers](https://philpapers.org/rec/MATTRG-3)
 - [paper](./other_sources.md#MATTRG)
 
+#### Takes
+- Classic responsibility framework
+- Types of learning automata
+- Examples of learning automata
+- Responsibility gap
+
 ### Responsible computers? A case for ascribing quasi-responsibility to computers independent of personhood or agency
 
 #### Info
 - (Stahl 2006)
 - [philpapers](https://philpapers.org/rec/STARCA)
 - [paper](./other_sources.md#STARCA)
+
+### Artificial Intelligence, Responsibility Attribution, and a Relational Justification of Explainability
+
+#### Info
+- (Coeckelbergh 2020)
+- [philpapers](https://philpapers.org/rec/COEAIR)
+- [paper](./other_sources.md#COEAIR)
+
+### Accountability and Control Over Autonomous Weapon Systems: A Framework for Comprehensive Human Oversight
+
+#### Info
+- (Verdiesen, de Sio, Dignum 2020)
+- [philpapers](https://philpapers.org/rec/VERAAC-4)
+- [paper](./other_sources.md#VERAAC)
+
+### Killer robots
+
+#### Info
+- (Sparrow 2007)
+- [philpapers](https://philpapers.org/rec/SPAKR)
+- [paper](./other_sources.md#SPAKR)
+
 
 ## Standford Encyclopedia of Philosophy
 
