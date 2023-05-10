@@ -165,8 +165,24 @@ Not very relevant given the new focus on autonomous systems rather than AI and c
 - Engineers vs Management
     - Separatism
     - Technocracy
-    - Whistle-blowing
+    - Whistle-blowings
 - Passive vs Active responsibility
 - Role responsibility vs Moral responsibility vs Professional responsibility
 - Effectiveness vs Efficiency
 - Technology Assessment - Collingridge dilemma
+
+
+## Secondary Sources
+
+
+- A Legal Principles-Based Framework for AI Liability Regulation
+    - DURAPF
+    - https://doi.org/10.1007/978-3-031-09846-8_7
+
+- The Assessment List for Trustworthy Artificial Intelligence (ALTAI) for self assessment
+    - ALTAI
+    - https://digital-strategy.ec.europa.eu/en/library/assessment-list-trustworthy-artificial-intelligence-altai-self-assessment
+
+- Ambiguity and the Politics of Accountability
+    - OLJODA
+    - https://doi.org/10.1093/acprof:oso/9780198800606.003.0004
