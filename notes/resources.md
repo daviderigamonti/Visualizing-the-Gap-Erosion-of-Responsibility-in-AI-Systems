@@ -65,12 +65,17 @@ Not very relevant given the new focus on autonomous systems rather than AI and c
 - Fatalism, Deflationism and Solutionism -> explainability, liability regimes
 - Possible solution: MHE (Tracking + Tracing) [!!]
 
-### Understanding responsibility in Responsible AI. Dianoetic virtues and the hard problem of context
+### Understanding responsibility in Responsible AI. Dianoetic virtues and the hard problem of context [??]
 
 #### Info
 - (Costantinescu, Voinea, Uszjai, Vică 2021)
 - [philpapers](https://philpapers.org/rec/CONURI)
 - [paper](./other_sources.md#CONURI)
+
+#### Takes
+- In-depth description of moral responsibility
+- Moral responsibility placed within AI vs humans
+- Examples of ethical frameworks in responsible AI
 
 ### The responisbility gap: Ascribing responsibility for the actions of learning automata [!!]
 
@@ -92,12 +97,23 @@ Not very relevant given the new focus on autonomous systems rather than AI and c
 - [philpapers](https://philpapers.org/rec/STARCA)
 - [paper](./other_sources.md#STARCA)
 
+#### Takes
+- Responsibility definition (types of responsibility)
+- Conditions of responsibility
+- Quasi-Responsibility of computers
+
 ### Artificial Intelligence, Responsibility Attribution, and a Relational Justification of Explainability
 
 #### Info
 - (Coeckelbergh 2020)
 - [philpapers](https://philpapers.org/rec/COEAIR)
 - [paper](./other_sources.md#COEAIR)
+
+#### Takes
+- Aristotelic vision of responsibility
+- Responsibility gap
+- Problem of many hands & problem of many things
+- How to address responsibility in those scenarios
 
 ### Accountability and Control Over Autonomous Weapon Systems: A Framework for Comprehensive Human Oversight
 

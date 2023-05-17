@@ -24,6 +24,7 @@ A new perspective is needed to effectively discern the full extent of human resp
         - Responsibility vs Accountability vs Attributability vs Liability
     - Overview of the paper
 2. Classic definition of responsibility and its applicability on non-intelligent systems
+    - Red herring of Aristotelian conditions of responsibility
 3. Problems and fairness concerns of employing a classical responsibility framework in evaluating AI systems
     - Inherent opacity of autonomous systems
 4. Consequences of mishandling or ignoring the raised concerns
