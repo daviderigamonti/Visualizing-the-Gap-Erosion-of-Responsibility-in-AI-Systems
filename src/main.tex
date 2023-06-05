@@ -1,6 +1,6 @@
 %%%%% PACKAGES AND CONFIGURATION %%%%%
 
-\documentclass[twocolumn]{article}
+\documentclass{article}
 
 \usepackage{geometry}   % Edit document margins
 \usepackage{hyperref}   % Table of contents hyperlinks
@@ -10,6 +10,7 @@
 \usepackage{xcolor}     % More colors
 \usepackage{amsmath}    % Math
 \usepackage{amsfonts}   % Math fonts
+\usepackage{multicol}   % Multi column
 % Recommended packages for biblatex
 \usepackage[english]{babel}
 \usepackage{csquotes} 
@@ -23,9 +24,9 @@
 
 %%% TODO
 % HELPER PACKAGES (REMOVE IN FINAL) %
-\setlength{\marginparwidth}{2cm}
-\usepackage{todonotes}
-\usepackage{blindtext}
+%\setlength{\marginparwidth}{2cm}
+%\usepackage{todonotes}
+%\usepackage{blindtext}
 % HELPER PACKAGES (REMOVE IN FINAL) %
 
 % Setup hyperlinks
@@ -47,7 +48,7 @@
 
 %%%%% TITLE %%%%%
 
-\title{My Beautiful Paper About Stuff}
+\title{Visualizing the Gap: Erosion of Responsibility in AI Systems}
 \author{Davide Rigamonti}
 \date{June 2023}
 
@@ -57,34 +58,39 @@
 
 % Print title
 \maketitle
-\todo{Fix title}
-\todo{Write abstract}
+
+%%% ABSTRACT %%%
+\input{chapters/0.Abstract.tex}
 
 %%% TODO (REMOVE IN FINAL)
-\listoftodos
+%\listoftodos
 
-%%% INTRODUCTION %%%
-\input{chapters/1.Introduction.tex}
+\begin{multicols}{2}
 
-%%% ANALYZING RESPONSIBILITY %%%
-\input{chapters/2.Responsibility.tex}
+    %%% INTRODUCTION %%%
+    \input{chapters/1.Introduction.tex}
 
-%%% RESPONSIBILITY GAP %%%
-\input{chapters/3.ResponsibilityGap.tex}
+    %%% ANALYZING RESPONSIBILITY %%%
+    \input{chapters/2.Responsibility.tex}
 
-%%% SOCIETAL AND TECHNOLOGICAL CONSEQUENCES %%%
-\input{chapters/4.Consequences.tex}
+    %%% RESPONSIBILITY GAP %%%
+    \input{chapters/3.ResponsibilityGap.tex}
 
-%%% GENERAL APPROACHES %%%
-\input{chapters/5.Approaches.tex}
+    %%% SOCIETAL AND TECHNOLOGICAL CONSEQUENCES %%%
+    \input{chapters/4.Consequences.tex}
 
-%%% CONTRASTING VIEWPOINTS %%%
-\input{chapters/6.Viewpoints.tex}
+    %%% GENERAL APPROACHES %%%
+    \input{chapters/5.Approaches.tex}
 
-%%% CONCLUSIONS %%%
-\input{chapters/7.Conclusions.tex}
+    %%% CONTRASTING VIEWPOINTS %%%
+    \input{chapters/6.Viewpoints.tex}
 
-% Print bibliography
-\printbibliography
+    %%% CONCLUSIONS %%%
+    \input{chapters/7.Conclusions.tex}
+
+    % Print bibliography
+    \printbibliography
+
+\end{multicols}
 
 \end{document}
