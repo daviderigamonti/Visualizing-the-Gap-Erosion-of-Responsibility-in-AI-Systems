@@ -20,7 +20,7 @@ In the paper we will also dwell on the potential consequences of the proposed pr
 [Davide Rigamonti](https://github.com/daviderigamonti)
 
 ## References
-[Biliography](src/bibliography.bib)
+[Bibliography](src/bibliography.bib)
 
 ## Citation
 ```bibtex
@@ -28,7 +28,7 @@ In the paper we will also dwell on the potential consequences of the proposed pr
   title = {Visualizing the Gap: Erosion of Responsibility in AI Systems},
   author = {Davide Rigamonti},
   year = {2023},
-  url = {https://github.com/daviderigamonti/PICS-Paper}
+  url = {https://github.com/daviderigamonti/Visualizing-the-Gap-Erosion-of-Responsibility-in-AI-Systems}
 }
 ```
 
