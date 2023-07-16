@@ -19,7 +19,7 @@ jobs:
         with:
           working_directory: "./src/"
           root_file: main.tex
-          args: "-pdf -file-line-error -halt-on-error -interaction=nonstopmode -jobname=paper -output-directory=.."
+          args: "-pdf -file-line-error -halt-on-error -interaction=nonstopmode -jobname=Visualizing_the_Gap_Erosion_of_Responsibility_in_AI_Systems -output-directory=.."
       - name: Push PDF file
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
